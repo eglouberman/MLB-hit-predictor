@@ -1,1 +1,3 @@
 theme: jekyll-theme-leap-day
+title : Baseball Hit Predictor
+description : Predict whether or not a player will recieve a Hit.
