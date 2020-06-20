@@ -5,12 +5,12 @@ navbar:
   - text: Topics
     menu:
     - text: Introduction
-      href: intro.html
+      href: index.html
     - text: Raster mapping example
-      href: plot_alpha_RMarkdown_Site.html
+      href: index.html
   right:
   - text: About
-    href: about.html
+    href: index.html
 output:
   html_document
 output_dir: docs
