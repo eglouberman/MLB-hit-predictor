@@ -1,16 +1,20 @@
-name: GEOG 4/590
+name: Baseball Hit Predictor
 navbar:
-  title: "GEOG 4/590:  R for Earth-System Science"
+  title: "Baseball Hit Predictor"
   left:
-  - text: Topics
+  - text: Blog
     menu:
-    - text: Introduction
-      href: index.html
-    - text: Raster mapping example
-      href: index.html
+    - text: BlogPost1
+      href: blogpost1.html
+    - text: blogpost2
+      href: blogpost2.html
+  - text: Research & Methodology 
+    href: r_a.html
   right:
   - text: About
-    href: index.html
+    href: about.html
+  - text: Data Visualizations
+    href: data_viz.html
 output:
   html_document
 output_dir: docs
