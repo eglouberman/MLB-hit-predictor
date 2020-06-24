@@ -1,8 +1,14 @@
 name: Baseball Hit Predictor
----
-layout: post
-title: Blogging Like a Hacker
----
+lsi: false
+safe: true
+source: docs
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+kramdown:
+  math_engine: mathjax
+  syntax_highlighter: rouge
 baseurl: MLB-hit-predictor
 navbar:
   title: "Baseball Hit Predictor"
