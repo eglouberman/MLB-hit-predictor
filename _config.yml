@@ -6,16 +6,16 @@ navbar:
   - text: Blog
     menu:
     - text: BlogPost1
-      href: blogpost1.html
+      href: index.html
     - text: blogpost2
-      href: blogpost2.html
+      href: index.html
   - text: Research & Methodology 
-    href: r_a.html
+    href: index.html
   right:
   - text: About
-    href: about.html
+    href: index.html
   - text: Data Visualizations
-    href: data_viz.html
+    href: index.html
 output:
   html_document
 output_dir: docs
