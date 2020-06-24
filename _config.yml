@@ -19,3 +19,5 @@ navbar:
 output:
   html_document
 output_dir: docs
+
+theme: jekyll-theme-minimal
