@@ -1,4 +1,5 @@
 name: Baseball Hit Predictor
+baseurl: MLB-hit-predictor
 navbar:
   title: "Baseball Hit Predictor"
   left:
