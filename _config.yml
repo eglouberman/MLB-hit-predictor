@@ -1,1 +1,21 @@
 theme: jekyll-theme-minimal
+name: Baseball Hit Predictor
+navbar:
+  title: "Baseball Hit Predictor"
+  left:
+  - text: Blog
+    menu:
+    - text: BlogPost1
+      href: blogpost1.html
+    - text: blogpost2
+      href: blogpost2.html
+  - text: Research & Methodology 
+    href: r_a.html
+  right:
+  - text: About
+    href: about.html
+  - text: Data Visualizations
+    href: data_viz.html
+output:
+  html_document
+output_dir: docs
