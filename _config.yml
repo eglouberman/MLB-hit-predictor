@@ -4,7 +4,7 @@ safe: true
 source: docs
 incremental: false
 highlighter: rouge
-gist:
+# gist:
 # noscript: false
 # kramdown:
 #   math_engine: mathjax
