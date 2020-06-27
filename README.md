@@ -14,7 +14,7 @@ Introduction:
 [**Blog 1**](https://eglouberman.github.io/MLB-hit-predictor/docs/blogpost1.html)
 [**Blog 2**](https://eglouberman.github.io/MLB-hit-predictor/docs/blogpost2.html)
 
-### Research & Methododlgy
+### Research & Methodology
 
 [*Learn about our methodology and research here*](https://eglouberman.github.io/MLB-hit-predictor/docs/r_a.html)
 
