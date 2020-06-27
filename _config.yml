@@ -1,4 +1,3 @@
----
 name: Baseball Hit Predictor
 lsi: false
 safe: true
@@ -30,6 +29,6 @@ highlighter: rouge
 output:
   html_document
 output_dir: docs
----
+
 
 
