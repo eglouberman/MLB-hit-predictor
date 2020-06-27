@@ -16,4 +16,4 @@ Introduction:
 
 ## About us
 
-[*Learn more about us here](https://eglouberman.github.io/MLB-hit-predictor/docs/.html)
+[*Learn more about us here*](https://eglouberman.github.io/MLB-hit-predictor/docs/.html)
