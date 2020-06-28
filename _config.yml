@@ -32,3 +32,5 @@ output_dir: docs
 
 
 
+
+theme: jekyll-theme-minimal
