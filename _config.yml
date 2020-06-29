@@ -1,9 +1,9 @@
-name: Baseball Hit Predictor
-lsi: false
-safe: true
-source: docs
-incremental: false
-highlighter: rouge
+title: Baseball Hit Predictor
+#lsi: false
+#safe: true
+#source: docs
+#incremental: false
+#highlighter: rouge
 # gist:
 # noscript: false
 # kramdown:
@@ -26,9 +26,9 @@ highlighter: rouge
 #     href: index.html
 #   - text: Data Visualizations
 #     href: index.html
-output:
-  html_document
-output_dir: docs
+#output:
+#  html_document
+#output_dir: docs
 
 
 
