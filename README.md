@@ -11,7 +11,7 @@ Introduction:
 
 
 ## Blog
-[**Blog  #1 : Initial Dimension Reduction**](https://eglouberman.github.io/MLB-hit-predictor/docs/Blog-1.html)
+[*Blog  #1 : Initial Dimension Reduction*](https://eglouberman.github.io/MLB-hit-predictor/docs/Blog-1.html)
 
 ### Research & Methodology
 
