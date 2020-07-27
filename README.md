@@ -14,6 +14,7 @@ Introduction:
 
 [*Blog  #1 : Initial Dimension Reduction*](https://eglouberman.github.io/MLB-hit-predictor/docs/Blog-1.html)
 [*Blog  #2 : Models are Sexy*](https://eglouberman.github.io/MLB-hit-predictor/docs/Blog-2.html)
+[*Blog  #3 : The Effects of Weather and Wind on MLB Hitting*](https://eglouberman.github.io/MLB-hit-predictor/docs/Blog-3.html)
 
 
 ### Research & Methodology
