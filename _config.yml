@@ -1,36 +1,7 @@
 title: Hit Prediction Project
-#lsi: false
-#safe: true
-#source: docs
-#incremental: false
-#highlighter: rouge
-# gist:
-# noscript: false
-# kramdown:
-#   math_engine: mathjax
-#   syntax_highlighter: rouge
-# baseurl: MLB-hit-predictor
-# navbar:
-#   title: "Baseball Hit Predictor"
-#   left:
-#   - text: Blog
-#     menu:
-#     - text: BlogPost1
-#       href: index.html
-#     - text: blogpost2
-#       href: index.html
-#   - text: Research & Methodology 
-#     href: index.html
-#   right:
-#   - text: About
-#     href: index.html
-#   - text: Data Visualizations
-#     href: index.html
-#output:
+description: DSU project to predict whether MLB players will get a hit!
+# output:
 #  html_document
-#output_dir: docs
-
-
-
-
+# output_dir: docs
 theme: jekyll-theme-minimal
+destination: public
