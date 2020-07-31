@@ -3,5 +3,6 @@ description: ⚾ Data science project to predict if a Major League Baseball play
 # output:
 #  html_document
 # output_dir: docs
+# logo:  ./docs/images/home_image1.png
 theme: jekyll-theme-minimal
 destination: public
