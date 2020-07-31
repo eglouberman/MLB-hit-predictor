@@ -3,6 +3,7 @@ layout: default
 ---
 # MLB Hit Predictor
 
+(./docs/image/home_image1.png)
 
 Introduction:
  > Welcome to our project.
