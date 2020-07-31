@@ -13,7 +13,7 @@ between the 2014-2019 seasons and scraped the box score, venue, and weather and 
 for each season game.
 
 Data on MLB website:
-![python code](./images/python0.png "py1")
+!(./images/images2.png)
 
 The rationale behind using these variables is that it might be easier or harder to get a hit during
 different weather and wind conditions. For example, a player may be more physically drained
