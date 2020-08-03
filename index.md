@@ -13,10 +13,10 @@ Welcome to our project! This website explores...
 
 The Data was collected from many different sources using many different methods. API's, web scraping, etc. Click below on each type of data to learn how it was attained. The data was stored using Amazon Web Services RDS on a mySQL server. 
 
-* [#1 : Batting Data](./docs/blog1.html)
-* [#2 : Pitching Data](./docs/blog2.html)
-* [#3 : Stadium Data](./docs/blog3.html)
-* [#4 : Weather Data](./docs/blog3.html)
+* [#1 : Batting Data](./docs/batting.html)
+* [#2 : Pitching Data](./docs/pitching.html)
+* [#3 : Stadium Data](./docs/stadium.html)
+* [#4 : Weather Data](./docs/weather.html)
 
 ## Exploratory Analysis and Modeling
 
@@ -33,9 +33,5 @@ Or we don't even need a link.
 ## Who We Are
 
 |![Elon's photo](./docs/images/elon.jpg "elon")|![Andrew's photo](./docs/images/andrew.png "andrew")|![Elon's photo](./docs/images/elon.jpg "elon")|![Elon's photo](./docs/images/elon.jpg "elon")|
-|[Elon Glouberman](./docs/blog1.html)|[Andrew Liu](./docs/blog1.html)|[Nathaniel Barrett](./docs/blog1.html)| [Someone Else](./docs/blog1.html)|
+|[Elon Glouberman](./docs/bio.html#elon-glouberman)|[Andrew Liu](./docs/bio.html#andrew-liu)|[Nathaniel Barrett](./docs/bio.html)| [Someone Else](./docs/bio.html#ankush)|
 |<t>Project Lead </t>| Title| Title | Title|
-
-
-[*Learn more about us here*](https://eglouberman.github.io/MLB-hit-predictor/docs/about.html)
-

@@ -5,3 +5,9 @@
 section {
     width: 580px;
 }
+
+[title~=bio_photo] {
+    max-width: 20%;
+    margin-right: 15px;
+    float: left;
+}
