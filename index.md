@@ -32,6 +32,6 @@ Or we don't even need a link.
 
 ## Who We Are
 
-|![Elon's photo](./docs/images/elon.jpg "elon")|![Andrew's photo](./docs/images/andrew.png "andrew")|![Elon's photo](./docs/images/elon.jpg "elon")|![Elon's photo](./docs/images/elon.jpg "elon")|
-|[Elon Glouberman](./docs/bio.html#elon-glouberman)|[Andrew Liu](./docs/bio.html#andrew-liu)|[Nathaniel Barrett](./docs/bio.html)| [Someone Else](./docs/bio.html#ankush)|
-|<t>Project Lead </t>| Title| Title | Title|
+|![Elon's photo](./docs/images/elon.jpg "home_photo")|![Andrew's photo](./docs/images/andrew.png "home_photo")|![nate's photo](./docs/images/nate.png "home_photo")|![Elon's photo](./docs/images/elon.jpg "home_photo")|
+|[Elon Glouberman](./docs/bio.html#elon-glouberman)|[Andrew Liu](./docs/bio.html#andrew-liu)|[Nathaniel Barrett](./docs/bio.html#nathaniel-barrett)| [Someone Else](./docs/bio.html#ankush)|
+|Project Lead|Project Member|Project Associate|Project Member|

@@ -2,6 +2,9 @@
 ---
 @import "{{ site.theme }}";
 
+@import "//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css";
+
+
 section {
     width: 580px;
 }
@@ -9,5 +12,24 @@ section {
 [title~=bio_photo] {
     max-width: 20%;
     margin-right: 15px;
+    margin-top: 5px;
     float: left;
+}
+
+[title~=home_photo]{
+    border-radius: 30px;
+    display: block;
+    max-width: 216px;
+    max-height: 150px;
+    width: auto;
+    height: auto;
+}
+
+i 
+{
+    color: black;
+}
+
+td {
+    text-align: center;
 }
