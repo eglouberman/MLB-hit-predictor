@@ -16,7 +16,7 @@
 
 <i><em>"I wanted to participate in this project because of my love and passion for sports as well as my desire to apply theoretical learnings to a real-world problem."</em></i>
 
-|<i style="font-size:20px" class="fa fa-envelope"></i>  andrewl7127@ucla.edu  |<i style="font-size:20px;color:#0e76a8" class="fa">&#xf08c;</i>[ Andrew's LinkedIn](https:/linkedin/in/andrewl7127)  | <i style="font-size:20px" class="fa">&#xf09b;</i> [ Andrew's Github](https://github.com/andrewl7127)  
+|<i style="font-size:20px" class="fa fa-envelope"></i>  andrewl7127@ucla.edu  |<i style="font-size:20px;color:#0e76a8" class="fa">&#xf08c;</i>[ Andrew's LinkedIn](https://www.linkedin/in/andrewl7127)  | <i style="font-size:20px" class="fa">&#xf09b;</i> [ Andrew's Github](https://github.com/andrewl7127)  
 
 ## Nathaniel Barrett
 
