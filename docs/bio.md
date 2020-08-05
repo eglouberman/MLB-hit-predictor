@@ -12,7 +12,7 @@
 
 ![Andrew's photo](./images/andrew.png "bio_photo") 
 
-<p> Andrew Liu is an undergraduate student studying Statistics at UCLA ('23). He is interested in the intersection between business and technology and is passionate about using data to solve real-world problems. In his free time, Andrew enjoys playing soccer, badminton, and chess. He is also interested in night markets and international travel. </p>
+<p> Andrew Liu is an undergraduate student studying Statistics at UCLA ('23). He is interested in the intersection between business and technology and is passionate about using data to solve real-world problems. In his free time, Andrew enjoys playing soccer, badminton, and chess. He is also interested in eSports, night markets, and international travel. </p>
 
 <i><em>"I wanted to participate in this project because of my love and passion for sports as well as my desire to apply theoretical learnings to a real-world problem."</em></i>
 
