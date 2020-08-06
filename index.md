@@ -23,6 +23,7 @@ The Data was collected from many different sources using many different methods.
 * [*Blog  #1 : Initial Dimension Reduction*](./docs/blog1.html)
 * [*Blog  #2 : Models are Sexy*](./docs/blog2.html)
 * [*Blog  #3 : The Effects of Weather and Wind on MLB Hitting*](./docs/blog3.html)
+* [*Blog  #4 : Sculpting and Touching Up our Model*](./docs/blog4.html)
 
 ## Conclusion & Future Goals
 
