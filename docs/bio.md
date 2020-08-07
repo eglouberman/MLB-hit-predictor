@@ -2,7 +2,7 @@
  
 ![Elon's photo](./images/elon.jpg "bio_photo")
 
-<p>Elon is a recent grad from UCLA (20') with a B.S. in Cognitive Science, Computing specialization, and a minor in Music Industry. He loves taking an active approach to problem-solving and diving into interesting problems. He is particularly interested in combining the data and technology and applying it to the music industry. In his spare time, Elon enjoys listening to his record player, training how to dunk on a ten-foot basketball hoop, and playing golf. </p>
+<p>Elon Glouberman is a recent graduate from UCLA (20') with a B.S. in Cognitive Science, specialization in Computing, and minor in Music Industry. He loves taking an active approach to problem-solving and diving into interesting problems. He is particularly interested in combining data and technology and applying it to the music industry. In his spare time, Elon enjoys solving crossword puzzles, training how to dunk on a ten-foot basketball hoop, and playing golf. </p>
 
 <i><em>"Not only do I love the sport, but baseball is extremely exciting because of the hundreds of data points surrounding every aspect of the game. Being able to utilize these seemingly disparate pieces of information and combining it in such a way that gives you meaningful and predictive results is pretty awesome."</em></i>
 
@@ -25,7 +25,7 @@
 <p>Nathaniel Barrett is a recent graduate of UCLA ('20) with a B.S in statistics. With an overall passion for Data Application, Data Analysis, and Data Science, Nathaniel has tried his hand with Data in many different industries such as Finance, Health, Law, and Environmental Science. He strives to move forward with the notion that Data can not only be a useful tool to learn about the world but change it for the better as well.  Nathaniel loves to gain more experience with Data Science whenever he can and ultimately learns something new everyday. </p>
 
 
-<i><em>"Sports has always been a really big part of my life, and with my experience with Data, I have found a way to connect my passion for Sports and Data Science through this project. This project has been an excellent opportunity for me to gain more experience with Data but also with America’s favorite pastime as well. I’ve also had the chance to get some good insight and new perspectives with my project team"</em></i>
+<i><em>"Sports has always been a really big part of my life, and with my experience with data, I have found a way to connect my passion for Sports and Data Science through this project. This project has been an excellent opportunity for me to gain more experience with Data but also with America’s favorite pastime as well. I’ve also had the chance to get some good insight and new perspectives with my project team"</em></i>
 
 |<i style="font-size:20px" class="fa fa-envelope"></i>  natebarrett98@gmail.com |<i style="font-size:20px;color:#0e76a8" class="fa">&#xf08c;</i>[ Nathaniel's LinkedIn](https://www.linkedin.com/in/nathaniel-barrett-b51a04140/)  | <i style="font-size:20px" class="fa">&#xf09b;</i> [ Nathaniel's Github](https://natebarrett98.github.io/My_Projects/)  
 
