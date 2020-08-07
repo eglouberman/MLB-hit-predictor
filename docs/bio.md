@@ -29,5 +29,3 @@
 
 |<i style="font-size:20px" class="fa fa-envelope"></i>  natebarrett98@gmail.com |<i style="font-size:20px;color:#0e76a8" class="fa">&#xf08c;</i>[ Nathaniel's LinkedIn](https://www.linkedin.com/in/nathaniel-barrett-b51a04140/)  | <i style="font-size:20px" class="fa">&#xf09b;</i> [ Nathaniel's Github](https://natebarrett98.github.io/My_Projects/)  
 
-
-## Ankush

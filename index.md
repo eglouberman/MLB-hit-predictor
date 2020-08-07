@@ -27,12 +27,10 @@ The Data was collected from many different sources using many different methods.
 
 ## Conclusion & Future Goals
 
-[Read this link to get there]()
-
 Or we don't even need a link.
 
 ## Who We Are
 
-|![Elon's photo](./docs/images/elon.jpg "home_photo")|![Andrew's photo](./docs/images/andrew.png "home_photo")|![nate's photo](./docs/images/nate.png "home_photo")|![Elon's photo](./docs/images/elon.jpg "home_photo")|
+|![Elon's photo](./docs/images/elon.jpg "home_photo")|![Andrew's photo](./docs/images/andrew.png "home_photo")|![nate's photo](./docs/images/nate.png "home_photo")|
 |[Elon Glouberman](./docs/bio.html#elon-glouberman)|[Andrew Liu](./docs/bio.html#andrew-liu)|[Nathaniel Barrett](./docs/bio.html#nathaniel-barrett)| [Someone Else](./docs/bio.html#ankush)|
-|Project Lead|Project Member|Project Associate|Project Member|
+|Project Lead|Project Member|Project Associate|
