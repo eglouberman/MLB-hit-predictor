@@ -39,4 +39,4 @@ We are a group of curious and passionate college students from UCLA. We organize
 
 |![Elon's photo](./docs/images/elon.jpg "home_photo")|![Andrew's photo](./docs/images/andrew.png "home_photo")|![nate's photo](./docs/images/nate.png "home_photo")|
 |[Elon Glouberman](./docs/bio.html#elon-glouberman)|[Andrew Liu](./docs/bio.html#andrew-liu)|[Nathaniel Barrett](./docs/bio.html#nathaniel-barrett)
-|Project Lead|Project Member|Project Associate
+|Project Lead|Project Associate|Project Associate
