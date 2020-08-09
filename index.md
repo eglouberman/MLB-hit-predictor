@@ -21,7 +21,7 @@ The data was collected from many different sources using many different methods:
 * [#1 : Batting Data](./docs/batting.html)
 * [#2 : Pitching Data](./docs/pitching.html)
 * [#3 : Stadium Data](./docs/stadium.html)
-* [#4 : Weather Data](./docs/weather.html)
+* [#4 : Weather and Wind Data](./docs/weatherandwind.html)
 
 ## Exploratory Analysis and Modeling
 
