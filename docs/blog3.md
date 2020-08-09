@@ -6,7 +6,7 @@ author: Andrew Liu
 ---
 
 One category of variables that we considered using for our model was weather and wind data.
-This data was scraped directly from mlb.com and the four variables we scraped were the
+This data was scraped directly from mlb.com using Python and the BeautifulSoup4 and Selenium libraries, and the four variables we scraped were the
 weather in degrees, the weather type, the wind speed in miles per hour, and the wind direction.
 The web scraping was done in BeautifulSoup4 and Selenium. We traversed through each day
 between the 2014-2019 seasons and scraped the box score, venue, and weather and wind data
