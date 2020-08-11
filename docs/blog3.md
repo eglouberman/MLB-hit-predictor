@@ -3,8 +3,10 @@ layout: post
 title: The Effects of Weather on MLB Hitting
 date: 2020-07-30
 author: Andrew Liu
+previous_: ./blog2.html
+next_: ./blog4.html
 ---
-
+**[<-PREVIOUS PAGE]({{page.previous_}} "previous")** **[NEXT PAGE ->]({{page.next_}} "next")** <br><br>
 One category of variables that we considered using for our model was weather and wind data.
 This data was scraped from mlb.com/scores using Python and the BeautifulSoup4 and Selenium libraries, and the four variables we scraped were the
 weather in degrees, the weather type, the wind speed in miles per hour, and the wind direction.
@@ -162,5 +164,6 @@ Most influential features for Linear SVC:
 
 
 
-Overall, weather and wind variables were not too impactful in our general model. However, we believe that they can play a large role when looking at player specific models.
+Overall, weather and wind variables were not too impactful in our general model. However, we believe that they can play a large role when looking at player specific models.<br><br>
 
+**[<-PREVIOUS PAGE]({{page.previous_}} "previous")** **[NEXT PAGE ->]({{page.next_}} "next")** 

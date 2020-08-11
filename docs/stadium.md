@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Staduim Data and Methodology
+title: Stadium Data and Methodology
 date: 2020-08-06
 author: Nate Barrett
 ---
 ![a](./images/Stadium.jpg "a")
 
-## Methodology 
+## Methodology **[NEXT PAGE ->](./weatherandwind.html "next")**
 
 To importance of data of each baseball stadium stems from internal player factors of their envoirnments. Players will tend to have a notion to feel more confertable at there home stadium and less comfertable at away stadiums (or sometimes the other way around). This directly affects a players perofmance and causes the stadium to play an incremental role in the dataset.
 

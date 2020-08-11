@@ -38,3 +38,13 @@ p {
 td {
     text-align: center;
 }
+
+[title~=next]{
+float: right;
+font-size: 14px; 
+}
+
+[title~=previous]{
+    float: left;
+    font-size: 14px; 
+}

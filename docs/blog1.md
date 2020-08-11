@@ -3,8 +3,10 @@ layout: post
 title: Initial Dimension Reduction of Variables 
 date: 2020-07-30 15:42 -0700
 author: Nathaniel Barrett
+previous_: ./weatherandwind.html
+next_: ./blog2.html 
 ---
-
+**[<-PREVIOUS PAGE]({{page.previous_}} "previous")** **[NEXT PAGE ->]({{page.next_}} "next")** <br><br>
 As we seek to try to find the principal set of variables that can optimize the prediction of hits, we find a multitude of different strategies can be uncovered to contribute to this cause.
 
 For beginners, I think dimension reduction and understanding the base variables and how that work together can prove to be a major source of help on this journey to find the principal set of variables.
@@ -36,4 +38,5 @@ In this correlation map we see a good trace of the behavior vairables of interes
 
 In conclusion, these selected variables prove to be worthy for our model. At least at this point…
 
-N.B
+N.B<br><br>
+**[<-PREVIOUS PAGE]({{page.previous_}} "previous")** **[NEXT PAGE ->]({{page.next_}} "next")**

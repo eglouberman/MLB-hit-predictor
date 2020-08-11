@@ -3,10 +3,11 @@ layout: post
 title: Hitting Data and Methodology
 date: 2020-08-03
 author: Elon Glouberman
+next: ./pitching.html
 ---
 ![mookie](./images/mookie.jpg "mookie")
 
-## Why Hitting?
+## Why Hitting?   **[NEXT PAGE ->](./pitching.html "next")**
 
 At the core of every project, you gotta make sure you have the basics. Before we had advanced statistics like launch angle, rotational velocity, exit velocity, etc., we had basic hitting stats. When trying to predict whether a player will get a hit in a given MLB game, the most obvious statistic that could potentially be an indicator of the next game is their hitting success history. 
 
