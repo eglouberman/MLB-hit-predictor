@@ -4,7 +4,7 @@ title: Stadium Data and Methodology
 date: 2020-08-06
 author: Nate Barrett
 ---
-![a](./images/Stadium.jpg "a")
+![a](./images/Stadium1.jpg "a")
 
 ## Methodology **[NEXT PAGE ->](./weatherandwind.html "next")**
 
