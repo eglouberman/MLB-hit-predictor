@@ -4,19 +4,19 @@ title: Pitching Data and Methodology
 date: 2020-08-03
 author: Elon Glouberman
 ---
-![mookie](./images/mookie.jpg "mookie")
+![pitcher](./images/pitching_image.jpg "pitcher")
 
-## Why Hitting? **[NEXT PAGE ->](./stadium.html "next")**
+## Why Pitching? **[NEXT PAGE ->](./stadium.html "next")**
 
-At the core of every project, you gotta make sure you have the basics. Before we had advanced statistics like launch angle, rotational velocity, exit velocity, etc., we had basic hitting stats. When trying to predict whether a player will get a hit in a given MLB game, the most obvious statistic that could potentially be an indicator of the next game is their hitting success history. 
+When there is a hitter, there is a pitcher. You can't have one without the other. To only collect pitching stats or only batting stats is gathering one part of the story. When trying to predict whether a player will get a hit a hit in a given MLB game, we are also figuring out whether a pitcher will give up a hit as well. 
 
-Batting stats include batting average, which is simply a player's hits divided by his total at-bats (a number between .0 and 1.00). Although it is widely known to be a "probability metric" or the greatest indicator of a player's value, it may not be the greatest indicator of a player getting a hit. The highest batting averages are in the upper .300 range and, well, we're trying to do a bit better than 30% accuracy. However, it could still be useful because we definitely know that a player with a high batting average compared to a player with a low batting average is more likely to get a hit on any given day, and that is always true. 
+Before every MLB game, we can obtain information like who the starting pitcher will be as well as their history of performances. Pitching stats that we thought were relevant were hits allowed per innings pitched (on the season and in the last x games), strikeout rate (more strikeouts probably mean that batters have a tougher time facing the pitcher), ground ball rate, average pitches per appearance, and detailed stats from the previous game they pitched. 
 
-Other metrics on the batting side that we extracted for this project include OBP (On Base Percentage), SLG (Slugging), OPS (on base plus slugging), contact percentage (the ratio of balls hit into play/total number of at-bats), and batting average per ball hit into play. These metrics by themselves could be exteremely valuable, and hopefully when added together can be even more predictive. 
+Other metrics we collected include variables that could have a potential predictive significance such as earned run average (ERA), innings pitched on the season, Walks/hits per innings pitched (WHIP), and number of batters faced on the season.
 
-Variables were aggregated on a game-by-game basis for each season the player played. We also calculated 10, 20, and 30 day window averages to account for potential "streaky" behavior. 
+Variables were aggregated on a game-by-game basis for each season the pitcher played. We also calculated rolling 10, 20, and 30 day window averages to account for potential "streaky" behavior, which is very common for pitchers in the MLB.
 
 
 ## Methodology and Sources
 
-We were able to obtain batting metrics from a free API found on Github called [pybaseball](https://github.com/jldbc/pybaseball). For a given player and date range, the API returned pitch-by-pitch data pulled from [Baseball Savant](https://baseballsavant.mlb.com/csv-docs). Hundreds of metrics were returned including pitch type, game date, launch angle, pitcher information, and [more](https://baseballsavant.mlb.com/csv-docs). We calculated about 63 data points including hitter aggregated stats and game logs, next game hitter versus starting pitcher stats, and hitter window aggregated stats (to account for possible streakiness behavior). 
+We obtained probable pitcher information from the same API we used for hitting. For the conventional stats such as ERA, hits allowed, strikeouts, and game-by-game data, we utilized Beautiful Soup as a web scraper and scraped [Baseball Reference](https://www.baseball-reference.com/), a popular baseball statistics website. Starting with a list of names of probable pitchers obtained from the hitting data, for a given player and season, the web scraper returned game logs for that specified player (code can be found [here](https://github.com/eglouberman/MLB-hit-predictor/blob/master/pitch_scraper.py)). The game logs included about 50 data points such as aggregated ERA on the season, opponents, number of pitches, innings pitched, walks, HR allowed, etc. Then, using NumPy in Python, I manually aggregated single game statistics such as hits allowed to obtain hits allowed per innings pitched. Using similar methodology, I calculated about 15 more data points which included strikeout rate, ground ball percentages, and rolling averages for the main metrics (to possibly account for "streaky" behavior).

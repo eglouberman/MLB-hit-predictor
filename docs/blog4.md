@@ -3,8 +3,10 @@ layout: post
 title: Sculpting and Touching up our Model  
 date: 2020-08-06
 author: Nathaniel Barrett
+previous_: ./blog3.html
+next_: ./blog5.html
 ---
-
+**[<-PREVIOUS PAGE]({{page.previous_}} "previous")** **[NEXT PAGE ->]({{page.next_}} "next")** <br><br>
 With our previous model being a model created by base variables of baseball, we now look to seek out and find more variables that can help improve the model. We also look to find new model paramters and metrics to use to see if adjusting the paramters of the model itself will make a difference, these adjustemnts include adding a L1 (Lasso) and L2 (Ridge) penalty to our generalized linear model.
 
 
@@ -34,9 +36,8 @@ To confirm this I added a similar but different alternative model, the L2 norm p
 
 ![third correlation](./images/Capture35.PNG "e")
 
-With this it is now clear that the base linear model is the model of choice in this situation given it performed with the highest precision score. We look at the metrics of this linear model and see that almost variables have a very small P>|z| value. This meaning that these variables are signficant to the response variable in the model which means they all play a signficant role in finding out rather a player will get a hit or not against another player on a given day. Progress indeed.  
+With this it is now clear that the base linear model is the model of choice in this situation given it performed with the highest precision score. We look at the metrics of this linear model and see that almost variables have a very small P>|z| value. This meaning that these variables are significant to the response variable in the model which means they all play a signficant role in finding out rather a player will get a hit or not against another player on a given day. Progress indeed.  
 
 ![third correlation](./images/Capture36.PNG "f")
-
 
 N.B
