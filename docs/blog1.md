@@ -3,7 +3,7 @@ layout: post
 title: Initial Dimension Reduction of Variables 
 date: 2020-07-30 15:42 -0700
 author: Nathaniel Barrett
-previous_: ./weatherandwind.html
+previous_: ./blog0.html
 next_: ./blog2.html 
 ---
 **[<-PREVIOUS PAGE]({{page.previous_}} "previous")** **[NEXT PAGE ->]({{page.next_}} "next")** <br><br>

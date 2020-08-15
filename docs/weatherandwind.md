@@ -6,7 +6,7 @@ author: Andrew Liu
 ---
 ![cloudy](./images/cloudy.jpg "cloudy")
 
-## Why Weather? **[NEXT PAGE ->](./blog1.html "next")**
+## Why Weather? **[NEXT PAGE ->](./blog0.html "next")**
 
 We believe that external factors such as weather and wind can potentially impact a player's ability to hit the ball. One example would be the temperature where a player may be more fatigued on a hot day. The type of weather may also affect a player as some players may play significantly worse on a rainy day or signifcantly better on a cloudy day when the sun is not shining in their eyes. Wind can also affect a player's ability to hit the ball. For example, a pitch may come in faster or slower depending on the direction of the wind. For that reason, we not only measured the speed of the wind but also the direction. 
 

@@ -12,11 +12,9 @@ Our project explores one of the most iconic outcomes in sports- the major league
 
 Our goal was to build an end-to-end data science project, from building a centralized MySQL database using AWS RDS, to data cleaning and engineering in Python (and a bit of R), to data modeling (Python). We spent about five weeks conducting initial research, five weeks scraping and data exploration, and another ten weeks modeling and building this website.
 
-BRIEFLY DESCRIBE RESULTS HERE.........
-
 ## Data Collection and Preparation
 
-The data was collected from many different sources using many different methods: API's, web scraping, etc. Click below on each type of data to learn the importance of it and how it was attained. The database was organized using Amazon Web Services RDS on a mySQL server. We utilized RDS due to its easiness to set up, free storage space, and convenient accessibility among group members. 
+We collected baseball statistics from the years 2014-2019, and over 190,000 samples. The data was collected from many different sources using many different methods: API's, web scraping, etc. Click below on each type of data to learn the importance of it and how it was attained. The database was organized using Amazon Web Services RDS on a mySQL server. We utilized RDS due to its easiness to set up, free storage space, and convenient accessibility among group members. 
 
 * [#1 : Batting Data](./docs/batting.html)
 * [#2 : Pitching Data](./docs/pitching.html)
@@ -25,14 +23,15 @@ The data was collected from many different sources using many different methods:
 
 ## Exploratory Analysis and Modeling
 
-* [*Blog  #1 : Initial Dimension Reduction*](./docs/blog1.html)
-* [*Blog  #2 : Models are Sexy*](./docs/blog2.html)
-* [*Blog  #3 : The Effects of Weather and Wind on MLB Hitting*](./docs/blog3.html)
-* [*Blog  #4 : Sculpting and Touching Up our Model*](./docs/blog4.html)
+* [*Blog #1  Framing Our Project into Machine Learning Terms*](./docs/blog0.html)
+* [*Blog  #2 : Initial Dimension Reduction*](./docs/blog1.html)
+* [*Blog  #3 : Models are Sexy*](./docs/blog2.html)
+* [*Blog  #4 : The Effects of Weather and Wind on MLB Hitting*](./docs/blog3.html)
+* [*Blog  #5 : Sculpting and Touching Up our Model*](./docs/blog4.html)
 
 ## Conclusion & Future Goals
 
-Or we don't even need a link.
+We made a great model and achieved 100 percent accuracy. The model that was best was this and the model that was worst was this. 
 
 ## Who We Are
 We are a group of curious and passionate college students from UCLA. We organized this project through the Data Science Union at UCLA. Learn more about us below!
