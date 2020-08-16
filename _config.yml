@@ -1,14 +1,23 @@
 title: MLB HIT PREDICTOR
 description: "⚾ Data science project to predict 
-if a Major League Baseball player will get a hit on any given day (2020) ⚾ <br> <br>
-Data Collection and Preparation <br> 
+if a Major League Baseball player will get a hit on any given day (2020) ⚾ <br> 
+<nav> <h4>Data Collection and Preparation</h4>
 - <a href='https://eglouberman.github.io/MLB-hit-predictor/docs/batting.html'>Batting Data</a><br>
-- blog 2 <br>
-- blog 3 <br> <br>
-Exploratory and modelling <br>
-- blog 1 <br>
-- blog 2 <br>
-- blog 3 <br>"
+- <a href='https://eglouberman.github.io/MLB-hit-predictor/docs/pitching.html'>Pitching Data</a> <br>
+- <a href='https://eglouberman.github.io/MLB-hit-predictor/docs/stadium.html'>Stadium Data</a> <br>
+- <a href='https://eglouberman.github.io/MLB-hit-predictor/docs/weatherandwind.html'>Weather and Wind Data</a><br>
+<h4> Exploratory Analysis and Modeling</h4>
+- <a href='https://eglouberman.github.io/MLB-hit-predictor/docs/blog0.html'> Framing our Project into ML Terms</a> <br>
+- <a href='https://eglouberman.github.io/MLB-hit-predictor/docs/blog1.html'>Variable Selection (Part 1)</a> <br>
+- <a href='https://eglouberman.github.io/MLB-hit-predictor/docs/blog2.html'>Variable Selection (Part 2)</a> <br>
+- <a href='https://eglouberman.github.io/MLB-hit-predictor/docs/blog3.html'>Does Weather and Wind Matter? </a> <br>
+- <a href='https://eglouberman.github.io/MLB-hit-predictor/docs/blog4.html'>Optimizing Logistic Regression Model</a> <br>
+- <a href='https://eglouberman.github.io/MLB-hit-predictor/docs/blog5.html'>Player-Specific Models</a> <br>
+- <a href='https://eglouberman.github.io/MLB-hit-predictor/docs/blog6.html'>MultiLayer Perceptron </a> <br>
+<h4> Results and Conclusion</h4>
+- <a href='https://eglouberman.github.io/MLB-hit-predictor/docs/blog7.html'>Multi-Player Models Results</a> <br>
+- <a href='https://eglouberman.github.io/MLB-hit-predictor/docs/blog8.html'>Player-by-Player Models Results</a> <br>
+- <a href='https://eglouberman.github.io/MLB-hit-predictor/docs/blog9.html'>Conclusions </a> <br> </nav>"
 
 # output:
 #  html_document

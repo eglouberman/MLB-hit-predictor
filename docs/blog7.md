@@ -1,10 +1,10 @@
 ---
 layout: post
-title: Optimizing Logistic regression Model
+title: General Multi-player Models Results
 date: 2020-07-30 15:42 -0700
 author: Elon Glouberman
-previous_: ./blog3.html
-next_: ./blog5.html 
+previous_: ./blog6.html
+next_: ./blog8.html 
 ---
 **[<-PREVIOUS PAGE]({{page.previous_}} "previous")** **[NEXT PAGE ->]({{page.next_}} "next")** <br><br>
 

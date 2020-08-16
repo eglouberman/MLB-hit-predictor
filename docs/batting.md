@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Hitting Data and Methodology
+title: Batting Data and Methodology
 date: 2020-08-03
 author: Elon Glouberman
 next: ./pitching.html
 ---
 ![mookie](./images/mookie.jpg "mookie")
 
-## Why Hitting?   **[NEXT PAGE ->](./pitching.html "next")**
+## Why Batting?   **[NEXT PAGE ->](./pitching.html "next")**
 
-At the core of every project, you gotta make sure you have the basics. Before we had advanced statistics like launch angle, rotational velocity, exit velocity, etc., we had basic hitting stats. When trying to predict whether a player will get a hit in a given MLB game, the most obvious statistic that could potentially be an indicator of the next game is their hitting success history. 
+At the core of every project, you gotta make sure you have the basics. Before we had advanced statistics like launch angle, rotational velocity, exit velocity, etc., we had basic batting stats. When trying to predict whether a player will get a hit in a given MLB game, the most obvious statistic that could potentially be an indicator of the next game is their hitting success history. 
 
 Batting stats include batting average, which is simply a player's hits divided by his total at-bats (a number between .0 and 1.00). Although it is widely known to be a "probability metric" or the greatest indicator of a player's value, it may not be the greatest indicator of a player getting a hit. The highest batting averages are in the upper .300 range and, well, we're trying to do a bit better than 30% accuracy. However, it could still be useful because we definitely know that a player with a high batting average compared to a player with a low batting average is more likely to get a hit on any given day, and that is always true. 
 

@@ -4,9 +4,16 @@
 
 @import "//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css";
 
+nav a, nav p{
+    font-size: 11.5px; 
+}
+header h4
+{
+    height: 0px; 
+}
 
 section {
-    width: 580px;
+    width: 65%;
 }
 
 [title~=bio_photo] {

@@ -21,17 +21,22 @@ We collected baseball statistics from the years 2014-2019, and over 190,000 samp
 * [#3 : Stadium Data](./docs/stadium.html)
 * [#4 : Weather and Wind Data](./docs/weatherandwind.html)
 
-## Exploratory Analysis and Modeling
+## Exploratory Analysis & Modeling
 
-* [*Blog #1  Framing Our Project into Machine Learning Terms*](./docs/blog0.html)
-* [*Blog  #2 : Initial Dimension Reduction*](./docs/blog1.html)
-* [*Blog  #3 : Models are Sexy*](./docs/blog2.html)
-* [*Blog  #4 : The Effects of Weather and Wind on MLB Hitting*](./docs/blog3.html)
-* [*Blog  #5 : Sculpting and Touching Up our Model*](./docs/blog4.html)
+* [Framing Our Project into Machine Learning Terms](./docs/blog0.html)
+* [Variable Selection (Part 1)](./docs/blog1.html)
+* [Variable Selection (Part 2)](./docs/blog2.html)
+* [Does Weather and Wind Matter?](./docs/blog3.html)
+* [Optimizing Logisitic Regression Model](./docs/blog4.html)
+* [Player-specific Models](./docs/blog5.html)
+* [Multilayer Perceptron](./docs/blog6.html)
 
-## Conclusion & Future Goals
-
+## Results & Conclusion
 We made a great model and achieved 100 percent accuracy. The model that was best was this and the model that was worst was this. 
+* [Multi-player Models Results](./docs/blog7.html)
+* [Player-specific Models Results](./docs/blog8.html)
+* [Putting it all Together](./docs/blog9.html)
+
 
 ## Who We Are
 We are a group of curious and passionate college students from UCLA. We organized this project through the Data Science Union at UCLA. Learn more about us below!

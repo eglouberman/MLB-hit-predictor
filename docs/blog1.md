@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Initial Dimension Reduction of Variables 
+title: Variable Selection (Part 1) 
 date: 2020-07-30 15:42 -0700
 author: Nathaniel Barrett
 previous_: ./blog0.html
