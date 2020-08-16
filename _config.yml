@@ -1,5 +1,15 @@
 title: MLB HIT PREDICTOR
-description: ⚾ Data science project to predict if a Major League Baseball player will get a hit on any given day (2020) ⚾
+description: "⚾ Data science project to predict 
+if a Major League Baseball player will get a hit on any given day (2020) ⚾ <br> <br>
+Data Collection and Preparation <br> 
+- <a href='https://eglouberman.github.io/MLB-hit-predictor/docs/batting.html/'>Batting Data</a><br>
+- blog 2 <br>
+- blog 3 <br> <br>
+Exploratory and modelling <br>
+- blog 1 <br>
+- blog 2 <br>
+- blog 3 <br>"
+
 # output:
 #  html_document
 # output_dir: docs
