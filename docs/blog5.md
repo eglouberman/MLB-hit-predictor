@@ -13,19 +13,19 @@ Aside from the general dataset, we also wanted to look at player-specific models
 One the general dataset, the most influential features for a Random Forest model were BIP, BA, and BABIP.
 
 
-p3
+![p3](./images/p3.PNG "p3")
 
 
 However, when totaling the number of times a certain feature appeared in the top 3 most influential features for each individual player, the following were the most infleuntial features:
 
 
-p1
+![p1](./images/p1.PNG "p1")
 
 
 The top 3 features were actually strikeout_percentage, strike_percentage, and pitches_per_appearance_avg, none of which were in the top 3 for the general dataset.
 
 
-p2
+![p2](./images/p2.PNG "p2")
 
 
 When observing the most influential features for each player, we noticed that they varied significantly from one another, which signified to us that each player is unique and that it is worth looking into player-specific models.
