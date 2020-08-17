@@ -20,9 +20,9 @@ After some preprocessing and scaling using the StandardScaler offered by Scikit-
 
 Using these new variables, we achieved a 65% average precision score using 10-fold cross validation. The standard deviation out of all of our validation scores was 0.00098, meaning that it is fairly robust. BUT there is a slight problem with this approach...
 
-The total percentage of hits to no hits in our dataset was around 65% hits to 35% non-hits. If we guess there to be a hit on every single instance of the dataset, we would be right 65% of the time! This is problematic, especially when dealing with logistic regression because in the training set it can be biased towards the more weighted outcome. The accuracy and F1 score affirm that this isn't really the case, but still it may be better to balance our classes in our training set. We can use a technique called Random Under Sampling, which takes away samples from the higher-frequency class until both classes are even in the training set. 
+The total percentage of hits to no hits in our dataset was around 65% hits to 35% non-hits. If we guess there to be a hit on every single instance of the dataset, we would be right 65% of the time! This is problematic, especially when dealing with logistic regression because in the training set it can be biased towards the more frequent outcome. The accuracy and F1 score affirm that this isn't really the case, but still it may be better to balance our classes in our training set. We can use a technique called Random Under Sampling, which takes away samples from the higher-frequency class until both classes are even in the training set. 
 
-Using this "balancing" technique on our training set, we actually achieved an even higher accuracy on the test and validation sets: 
+Using this "balancing" technique on our training set, we actually achieved an even higher score on the test and validation sets: 
 
 ![test scores](images/test_elon.png)![validation](images/validation_elon.png)
 
@@ -34,7 +34,7 @@ Now, can we optimize our logistic regression model? We can tinker the model's "s
 
 Across the board, balanced datasets performed way better than unbalanced. When the sets are unbalanced, we often have bias and it makes sense that since the percentage of hits appearing in the dataset is 65% percent to begin with, those models didn't perform any better. With a balanced approach, we achieved a true extra 5 percentage points across the board. The default Logisitic Regression model, which uses a liblinear solver as "default", performed the best on our test and validation sets with an averagge precision score of 69 percent. 
 
-Below is a breakdown of the top variables our model used. It is very interesting to see that BIP, or Batted in play average, is our most important feature. This feature basically explains how often a player makes contact with the ball and puts it into play. It makes complete sense that it has a positive correlation with our response variable, where the higher your contact percentage is, the more likely you are to get a base hit. The pitcher's trikeout percentage on the season is also a high indicator of our response and is our second most important feature. The higher the strikeout percentage is, the more unlikely the player with achieve a base hit.
+Below is a breakdown of the top variables our model used. It is very interesting to see that BIP, or Batted in play average, is our most important feature. This feature basically explains how often a player makes contact with the ball and puts it into play. It makes complete sense that it has a positive correlation with our response variable, where the higher your contact percentage is, the more likely you are to get a base hit. The pitcher's trikeout percentage on the season is also a high indicator of our response and is our second most important feature. The higher the strikeout percentage is, the more unlikely the player will achieve a base hit.
 
 
 ![fis](images/feature_importances.png)
