@@ -18,17 +18,9 @@ p3
 
 However, when totaling the number of times a certain feature appeared in the top 3 most influential features for each individual player, the following were the most infleuntial features:
 
-strikeout_percentage          96
-strike_percentage             87
-pitches_per_appearance_avg    86
-ground_ball_percentage        82
-fly_ball_percentage           74
-                              ..
-Days_Rest                      1
-Double_Plays_Grounded_Into     1
-Walks_last_20_games            1
-HR_norm                        1
-LCF_outfield_norm              1
+
+p1
+
 
 The top 3 features were actually strikeout_percentage, strike_percentage, and pitches_per_appearance_avg, none of which were in the top 3 for the general dataset.
 
