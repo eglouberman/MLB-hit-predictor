@@ -8,7 +8,7 @@ next_: ./blog6.html
 ---
 **[<-PREVIOUS PAGE]({{page.previous_}} "previous")** **[NEXT PAGE ->]({{page.next_}} "next")** <br><br>
 
-Aside from the general dataset, we also wanted to look at player-specific models. The intuition behind this is that we want to capture the uniqueness of every player instead of generalizing them all together. For example, one player may be heavily affected by weather while another player may not be affected by weather at all. To test if this hypothesis was valid, we trained separate Random Forest models for each player with more than 30 samples (72% of total players in our original dataset met this criteria) and recorded the most influential features.
+Aside from the general dataset, we also wanted to look at player-specific models. The intuition behind this is that we want to capture the uniqueness of every player instead of generalizing them all together. For example, one player may be heavily affected by weather while another player may not be affected by weather at all. To test if this hypothesis was valid, we trained separate Random Forest models (Random Forest was high-performing and not too time intensive but other models such as Logistic Regression would've worked as well) for each player with more than 30 samples (72% of total players in our original dataset met this criteria) and recorded the most influential features.
 
 One the general dataset, the most influential features for a Random Forest model were BIP, BA, and BABIP.
 
