@@ -18,4 +18,6 @@ The accuracy of the models were measured in precision because our goal is to pre
 
 The average precision scores for the three models all hovered around 61-62%, which is about 1-2% lower than the precision scores for the general dataset, which hovered around 63-64%. One interesting thing to note is that Logistic Regression performed the best, then SGD, and finally Random Forest while the order was completely reversed for the general dataset. However, the difference between the models were less than 1%, so they are all very similar.
 
+Overall, the model was able to predict some players almost perfectly while others were a lot more difficult to predict. However, the player-specific models make certain players a lot more predictable.
+
 **[<-PREVIOUS PAGE]({{page.previous_}} "previous")** **[NEXT PAGE ->]({{page.next_}} "next")** 
