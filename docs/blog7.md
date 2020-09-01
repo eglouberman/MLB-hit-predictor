@@ -26,5 +26,6 @@ Below are the results obtained by our Logistic Regression and Multilayer Percept
 
 
 Since [Alceo and Henriques (2017)](https://www.insticc.org/Primoris/Resources/PaperPdf.ashx?idPaper=83622 "link to paper") took a similar approach and achieved a 85% top 100 precision score when using a MLP, we are fairly satisfied with our results.
+
 <br><br>
 **[<-PREVIOUS PAGE]({{page.previous_}} "previous")** **[NEXT PAGE ->]({{page.next_}} "next")** 

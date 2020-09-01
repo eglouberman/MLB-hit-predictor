@@ -8,7 +8,7 @@ author: Nate Barrett
 
 ## Why Stadium? **[NEXT PAGE ->](./weatherandwind.html "next")**
 
-To importance of data of each baseball stadium stems from internal player factors of their envoirnments. Players will tend to have a notion to feel more comfortable at there home stadium and less comfertable at away stadiums (or sometimes the other way around). This directly affects a players performance and causes the stadium to play an incremental role in the dataset.
+To importance of data of each baseball stadium stems from internal player factors of their environments. Players will tend to have a notion to feel more comfortable at there home stadium and less comfortable at away stadiums (or sometimes the other way around). This directly affects a players performance and causes the stadium to play an incremental role in the dataset.
 
 With data gathered from each stadium of all 30 teams in the MLB, variables such as rate of Runs in a given baseball game, rate of hits in a given game, rate of home runs per game, etc. we provide statisical and theoretical inferences of the data of stadiums for each hitter that plays at each specific stadium. This analysis gives additonal insight into how a player performs rather they play in a cold winter night in Colorado, or a blazing hot evening in Arizona.
 
