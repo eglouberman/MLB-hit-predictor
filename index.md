@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-# MLB HIT PREDICTOR
 <em>Building a machine learning classifier to predict which MLB players will achieve a base-hit on any given day.</em> 
 
 ![home](./docs/images/home_image1.png "splash")
@@ -32,7 +31,9 @@ We collected baseball statistics from the years 2014-2019, and over 190,000 samp
 * [Multilayer Perceptron](./docs/blog6.html)
 
 ## Results & Conclusion
-We made a great model and achieved 100 percent accuracy. The model that was best was this and the model that was worst was this. 
+
+Our best model produced exciting results. A top-100 precision score of 82% was obtained using Logisitic Regression (similar scores were obtained using a MLP) in a generalized model (not player-specific). This is almost 20 percent more accurate than luck, which was really cool to see. In player-specific models, the average score was about 10 percent lower than generalized models (around 60 percent), but we did achieve great accuracy in several instances with particular players. Check out our results in more detail below!
+
 * [Multi-player Models Results](./docs/blog7.html)
 * [Player-specific Models Results](./docs/blog8.html)
 * [Putting it all Together](./docs/blog9.html)

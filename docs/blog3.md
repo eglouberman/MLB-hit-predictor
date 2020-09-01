@@ -7,31 +7,16 @@ previous_: ./blog2.html
 next_: ./blog4.html
 ---
 **[<-PREVIOUS PAGE]({{page.previous_}} "previous")** **[NEXT PAGE ->]({{page.next_}} "next")** <br><br>
-One category of variables that we considered using for our model was weather and wind data.
-This data was scraped from mlb.com/scores using Python and the BeautifulSoup4 and Selenium libraries, and the four variables we scraped were the
-weather in degrees, the weather type, the wind speed in miles per hour, and the wind direction.
-The web scraping was done in BeautifulSoup4 and Selenium. We traversed through each day
-between the 2014-2019 seasons and scraped the box score, venue, and weather and wind data
-for each season game.
 
-Data on MLB website:
+One category of variables that we considered using for our model was weather and wind data. One of our more interesting datasets, weather data can often be overlooked. On the MLB website, along with all the other statistics, the weather and wind information is available in plain sight:
 
 
 ![im2](./images/image2.png "im2")
 
-
-
-The rationale behind using these variables is that it might be easier or harder to get a hit during
-different weather and wind conditions. For example, a player may be more physically drained
-and thus have a more difficult time getting a hit if the weather is sunny and over 90 degrees. On
-the contrary, a player may have an easier time getting a hit if the wind is strong and blowing
-toward the outfield as it favors the batter.
+But can these variables be helpful? The rationale behind using these variables is that it might be easier or harder to get a hit during different weather and wind conditions. For example, a player may be more physically drained and thus have a more difficult time getting a hit if the weather is sunny and over 90 degrees. On the contrary, a player may have an easier time getting a hit if the wind is strong and blowing toward the outfield as it favors the batter.
 
 In order to find out whether weather and wind data correlated with a player getting a hit, we
-matched the weather data with game logs and ran some statistical tests. For the continuous
-variables such as weather (degrees) and wind speed (mph), we first tried running logistic
-regression. However, there was almost no linear correlation for either variable or combined to
-be found with very small r<sup>2</sup> values close to 0.
+matched the weather data with game logs and ran some statistical tests. For the continuous variables such as weather (degrees) and wind speed (mph), we first tried running logistic regression. However, there was almost no linear correlation for either variable or combined to be found with very small r<sup>2</sup> values close to 0.
 
 Weather (Degrees): 
 
@@ -81,7 +66,7 @@ Wind Direction:
 
 
 
-We then looked at player-specific data where we looked at individual players to see if there was a larger correlation there since all players have different behaviors. We received similar results with very low pseudo-rr<sup>2</sup> values when running logistic regression. Weather (Degrees) had a pseudo-rr<sup>2</sup> value of only .02 while wind speed (MPH) had a slightly higher, but still small, pseudo-rr<sup>2</sup> value of .14. Combined, they had a pseudo-r2 value of .16.
+We then looked at player-specific data where we looked at individual players to see if there was a larger correlation there since all players have different behaviors. We received similar results with very low pseudo-r<sup>2</sup> values when running logistic regression. Weather (Degrees) had a pseudo-r<sup>2</sup> value of only .02 while wind speed (MPH) had a slightly higher, but still small, pseudo-r<sup>2</sup> value of .14. Combined, they had a pseudo-r2 value of .16.
 
 Weather (Degrees):
 
@@ -102,7 +87,7 @@ Combined:
 
 
 
-However, we noticed more patterns when graphing the variables for individual players, and the scatterplots showed more hints of potential patterns as opposed to the general dataset.
+However, we noticed more patterns when graphing the variables for individual players, and the scatterplots showed more hints of potential patterns as opposed to the general dataset. Take, for exmaple, Matt Kemp in 2016:
 
 Weather (Degrees): 
 
