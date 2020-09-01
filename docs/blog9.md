@@ -11,7 +11,7 @@ next_: ./bio
 
 We had a blast taking part in this project. Through many hours of data collection, data cleaning, and modeling, we were finally able to produce a really cool end-to-end data science project!
 
-To summarize our project, we decided to see if we could produce a machine learning model that will predict whether a player will produce a base hit or not on any given day. We were initially inpsired by "Beat the Streak" a popular gambling app that allows people to pick up to two players to get a hit every day, and if they are correct 57 times in a row, they will win 5.6 million dollars. 
+To summarize our project, we decided to see if we could produce a machine learning model that will predict whether a player will produce a base hit or not on any given day. We were initially inpsired by "Beat the Streak" a popular gaming app that allows people to pick up to two players to get a hit every day, and if they are correct 57 times in a row, they will win 5.6 million dollars. 
 
 If guessing by chance on each day, there is a 65 percent chance likelihood a player will get a hit. More often than not, a player does actually produce at least one base hit, which was fairly surprising to see. Although these are good odds, the actual odds of getting a 57 day streak is 1 in 50,000,000,000 (50 billion wowza, very slim!).
 
