@@ -42,7 +42,7 @@ Random Forest:
 When looking at the top 100 precision, we see a much better result with the models scoring in the 83-84% precision range. Logistic Regression performed the worse while Stochastic Gradient Descent performed the best, but the difference between each model was very small:
 
 
-![t1(./images/top1PNG "t1)
+![t1(./images/top1.PNG "t1)
 
 
 Logistic Regression was able to predict 16 of the 703 players with perfect precision while Stochastic Gradient Descent and Random Forest were able to predict 18 with perfect precision. Taking a look at one specific player who had 58 games recorded in our database, Josh Thole, we see that all 3 models predicted his hitting with perfect precision. This may be due to the fact that Josh was known for having a successful and consistent hitting career, making him more predictable than many other players.
