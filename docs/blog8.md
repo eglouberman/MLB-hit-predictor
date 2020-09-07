@@ -17,9 +17,7 @@ The accuracy of the models were measured in precision because our goal is to pre
 ![p4](./images/p4.PNG "p4")
 
 
-The average precision scores for the three models all hovered around 61-62%, which is about 1-2% lower than the precision scores for the general dataset, which hovered around 63-64%. One interesting thing to note is that Logistic Regression performed the best, then SGD, and finally Random Forest while the order was completely reversed for the general dataset. However, the difference between the models were less than 1%, so they are all very similar.
-
-The following were some of the most predictable players for each model. Some players were very predictable across all models, but there was also some variance in the most predictable players for each model:
+The average precision scores for the three models all hovered around 63-64%, which is about the same as the precision scores for the general dataset. The following were some of the most predictable players for each model. Some players were very predictable across all models, but there was also some variance in the most predictable players for each model:
 
 Logistic Regression:
 
@@ -39,12 +37,12 @@ Random Forest:
 ![t4](./images/top4.PNG "t4")
 
 
-When looking at the top 100 precision, we see a much better result with the models scoring in the 83-84% precision range. Logistic Regression performed the worse while Stochastic Gradient Descent performed the best, but the difference between each model was very small:
+When looking at the top 100 precision, we see a much better result with the models scoring around 73% precision:
 
 
 ![t1](./images/top1.PNG "t1")
 
-Logistic Regression was able to predict 16 of the 703 players with perfect precision while Stochastic Gradient Descent and Random Forest were able to predict 18 with perfect precision. Taking a look at one specific player who had 58 games recorded in our database, Josh Thole, we see that all 3 models predicted his hitting with perfect precision. This may be due to the fact that Josh was known for having a successful and consistent hitting career, making him more predictable than many other players.
+Taking a look at one specific player who had 58 games recorded in our database, Carlos Correa, we see that all 3 models predicted his hitting with relatively well. This may be due to the fact that Carlos has had a very successful and consistent hitting career with a batting average of .295, making him more predictable than many other players.
 
 Overall, the model was able to predict some players almost perfectly while others were a lot more difficult to predict. However, the player-specific models make certain players a lot more predictable.
 
